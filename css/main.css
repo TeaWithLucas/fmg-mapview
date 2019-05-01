@@ -1,0 +1,74 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    margin: 10px;
+    padding: 0;
+}
+
+.ol-viewport {
+    min-width: 800px;
+    max-width: 80%;
+    min-height: 600px;
+    max-height: 80%;
+}
+
+.ol-viewport canvas {
+    width: !important 100%;
+    height: !important 100%;
+}
+
+.rotate-north {
+  top: 65px;
+  left: .5em;
+}
+.ol-touch #ol-layerswitch, .ol-touch .rotate-north {
+    top: 80px;
+}
+
+#ol-layerswitch {
+    top: 65px;
+    right: .5em;
+    display: flex;
+    flex-direction:column;
+}
+
+#ol-layerswitch {
+    margin: 0.25rem;
+    padding: 0.5rem;
+    color: #fff;
+    font-size: 1.14em;
+    font-weight: 700;
+    text-decoration: none;
+    text-align: center;
+    background-color: rgba(0,60,136,.5);
+    border: none;
+    border-radius: 2px;
+}
+
+.ol-control-header {
+    margin-bottom:0.25rem;
+}
+
+.ckbx-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.ckbx-layer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.ckbx-label {
+    margin: 0 0.5rem;
+}
+
+.ckbx-box {
+    margin: 0 0.5rem;
+}
