@@ -8,9 +8,9 @@ An example of this running can be found at: https://fmg.azurewebsites.net/
 Using @Azgaar's [Fantasy Map Generator](https://github.com/Azgaar/Fantasy-Map-Generator/) you can export a .osm file which can be used to render a tileset.
 
 ## Requrements for tutorial
-[Fantasy Map Generator osm branch](https://fmg.azurewebsites.net/)
-[Maperitive](http://maperitive.net/)
-Downloaded copy of this template excluding the tiles folder
+* [Fantasy Map Generator osm branch](https://fmg.azurewebsites.net/)
+* [Maperitive](http://maperitive.net/)
+* Downloaded copy of this template, excluding the example 'tiles' folder
 
 ## Load your map
 * Download a .osm file from the Fantasy Map Generator
