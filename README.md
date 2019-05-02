@@ -1,7 +1,7 @@
 # fmg-mapview
 
 A simple template to render a xyz tilemap using only local html, css and javascript.
-An example of this running can be found at: https://fmg.azurewebsites.net/
+An example of this running can be found at: https://fmg-mapview.azurewebsites.net/
 
 # Generating a tileset from Fantasy Map Generator
 
